@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "962548262771",
+    "project_id": "sandy-ae40f",
+    "storage_bucket": "sandy-ae40f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962548262771:android:e16f1a02acff701b53c706",
+        "android_client_info": {
+          "package_name": "com.example.sandy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962548262771-qie15g39m61sq7krjk0lb1ljn8uahckq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOlXj7RgaqpMdgs3z-9xYyI6v2JdfPAFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962548262771-qie15g39m61sq7krjk0lb1ljn8uahckq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "962548262771-8adec7h741fpgpcpm0qktj548v56mcn8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sandy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962548262771:android:6bfb53a58063519b53c706",
+        "android_client_info": {
+          "package_name": "com.toyproject.sandy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962548262771-qie15g39m61sq7krjk0lb1ljn8uahckq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOlXj7RgaqpMdgs3z-9xYyI6v2JdfPAFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962548262771-qie15g39m61sq7krjk0lb1ljn8uahckq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "962548262771-8adec7h741fpgpcpm0qktj548v56mcn8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sandy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
